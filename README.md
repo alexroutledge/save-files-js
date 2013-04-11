@@ -8,6 +8,9 @@ Typically, this type of functionality has required Flash support and involved a 
 Current browser support:
 
 Chrome
+
 Safari
+
 Firefox
+
 IE10+

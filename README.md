@@ -7,10 +7,10 @@ Typically, this type of functionality has required Flash support and involved a 
 
 Current browser support:
 
-Chrome
+-Chrome
 
-Safari
+-Safari
 
-Firefox
+-Firefox
 
-IE10+
+-IE10+

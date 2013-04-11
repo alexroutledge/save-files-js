@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Save Generated Data</title>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1"/>
+<script type="text/javascript" src="js/site.js"></script>
+</head>
+<body>
+<label for="filename">File name:</label>
+<input type="text" id="filename" value="Example.json"/>
+
+<label for="mimetype">Mime type:</label>
+<input type="text" id="mimetype" value="application/json; charset=UTF-8"/>
+<br/>
+
+<label for="data">File contents:</label><br/>
+<textarea id="data" rows="10" cols="50">Multiline text containing unicode characters.
+
+German umlauts: äöüÄÖÜ
+Unicode quotes: »«„“”</textarea>
+<br/>
+
+<button onclick="globals.util.saveData();">Save Data</button>
+</body>
+</html>

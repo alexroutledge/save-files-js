@@ -14,3 +14,5 @@ Current browser support:
 -Firefox
 
 -IE10+
+
+You can view an example at http://dl.dropboxusercontent.com/u/8767938/fresca/html5/filesaver/filesaver.html
